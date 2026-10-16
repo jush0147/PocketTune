@@ -1,0 +1,11 @@
+{
+  "id": "./",
+  "name": "PocketTune | 即時修音",
+  "short_name": "PocketTune",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111118",
+  "theme_color": "#111118",
+  "description": "免費即時人聲修音與 Beat 調性分析"
+}
